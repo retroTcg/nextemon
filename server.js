@@ -14,7 +14,7 @@ const { getStartPerspectiveRootCall } = require('./gamelogic/socket_controllers/
 const { updatePreGameCoinResult, updateGameConfigGeneralRoot} = require('./gamelogic/socket_controllers/updatePreGame');
 const { getChangeRequestDecisionRootCall } = require('./gamelogic/socket_controllers/updateGame');
 const { getDeckbyId } = require('./gamelogic/socket_controllers/updatePreGame');
-const { getRoomSpecs } = require('./gameLogic/common/getRoomSpecs');
+const { getRoomSpecs } = require('./gamelogic/common/getRoomSpecs');
 const getPrizeCardsActiveGame = require('./gamelogic/common/getPrizeCardsActiveGame');
 
 var jwt = require('jsonwebtoken');
