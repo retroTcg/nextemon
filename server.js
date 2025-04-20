@@ -38,7 +38,8 @@ const whitelist = [
   'https://allegedlytcg.herokuapp.com',
   'https://www.nostalgiagamestudios.com',
   'https://allegedlytcg.onrender.com',
-  'https://retrotcg.netlify.app'
+  'https://retrotcg.netlify.app',
+  'https://retro-tcg-lobby.netlify.app'
 ];
 
 const corsOptions = {
